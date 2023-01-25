@@ -1,0 +1,24 @@
+body
+{
+    background-size: cover;
+}
+
+
+.heading
+{
+    width: 100%;
+    height: fit-content;
+}
+
+p{
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#object_name
+{
+    border-bottom-color: black;
+    border-radius: 0;
+    width: 300px;
+}
